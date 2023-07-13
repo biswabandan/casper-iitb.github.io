@@ -1,10 +1,19 @@
+- name: M.Techs@CASPER (Debasish) 
+  image: assets/img/deba.jpg
+  degree: B.Tech at IIT Bombay
+  year: 2020-22
+  topic: "ML/RL techniques for hardware prefetching"
+  profile: 
+  email: 
+  github: 
+
 - name: B.Techs@CASPER (Aman) 
   image: assets/img/aman.jpg
   degree: B.Tech at IIT Bombay
   year: 2019-23
   topic: "Row-hammer attack and mitigations"
   profile: 
-  email: amansingh@cse.iitb.ac.in
+  email: 
   github: 
 
 - name: B.Techs@CASPER (Prajeeth) 
